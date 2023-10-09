@@ -1,7 +1,10 @@
 
 Used-> Html, Css, Bootstrap, JavaScript, Jquery
-<h4>👳‍♀️ Ecommerce Project: 👳‍♀️</h4> 
+
+<h4>👳‍♀️ Portfolio: 👳‍♀️</h4> 
 	✅ https://utpolodekaryoronno.github.io/Portfolio-utpol/
+</br>
+	✅ https://utpolodekaryoronno.github.io/portfolio/
 </br>
 
 <h4>🤷‍♂️ Ecommerce Project: 🤷‍♂️</h4> 
