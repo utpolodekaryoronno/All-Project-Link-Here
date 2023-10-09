@@ -1,5 +1,5 @@
 
-Used-> Html, Css, Bootstrap, JavaScript, Jquery
+Used-> Html, Css, Bootstrap, JavaScript, Jquery and Jquery plugins
 
 <h4>👳‍♀️ Portfolio: 👳‍♀️</h4> 
 	✅ https://utpolodekaryoronno.github.io/Portfolio-utpol/
