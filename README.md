@@ -15,6 +15,8 @@ Used-> Html, Css, Bootstrap, JavaScript, Jquery and Jquery plugins
 	✅ https://utpolodekaryoronno.github.io/Garlo/
 </br>
 	✅ https://utpolodekaryoronno.github.io/Phytage/
+ </br>
+	✅ https://utpolodekaryoronno.github.io/transitro/
 
 
 <h4>🦹 NFT Project: 🦸‍♂️</h4> 
