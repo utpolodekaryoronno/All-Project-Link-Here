@@ -69,7 +69,8 @@ Used-> Html, Css, Bootstrap, JavaScript, Jquery and Jquery plugins
 </br>
 	✅ https://utpolodekaryoronno.github.io/Arctic/
 </br>
-		
+	✅ https://utpolodekaryoronno.github.io/Global-site/albania.html
+</br>
 
 <h4>👳‍♀️ Dashboard: 👳‍♂️</h4> 
 	✅ https://utpolodekaryoronno.github.io/Dashboard-admin/
