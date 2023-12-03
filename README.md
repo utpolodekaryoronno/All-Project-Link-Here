@@ -77,6 +77,9 @@ Used-> Html, Css, Bootstrap, JavaScript, Jquery and Jquery plugins
 	✅ https://utpolodekaryoronno.github.io/DashboardTrain/
 </br>
 
+<h4>🤷‍♀️ Law Website: 🤷‍♀️</h4> 
+	✅ https://utpolodekaryoronno.github.io/Legispace/
+</br>
 
 <h4>💻 Hosting Project: 💻</h4> 
 	✅ https://utpolodekaryoronno.github.io/joom-host-template/
