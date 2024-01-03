@@ -71,6 +71,10 @@ Used-> Html, Css, Bootstrap, JavaScript, Jquery and Jquery plugins
 </br>
 	✅ https://utpolodekaryoronno.github.io/Global-site/albania.html
 </br>
+	✅ https://utpolodekaryoronno.github.io/Autoreidas/
+</br>
+	✅ https://utpolodekaryoronno.github.io/Autopemoht/
+</br>
 
 <h4>👳‍♀️ Dashboard: 👳‍♂️</h4> 
 	✅ https://utpolodekaryoronno.github.io/Dashboard-admin/
