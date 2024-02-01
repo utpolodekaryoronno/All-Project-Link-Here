@@ -24,6 +24,8 @@ Used-> Html, Css, Bootstrap, JavaScript, Jquery and Jquery plugins
 </br>
 	✅ https://utpolodekaryoronno.github.io/luna-stable/
 </br>
+	✅ https://utpolodekaryoronno.github.io/bitastir/
+ </br>
 
 <h4>🛠️ Construction Project: 🛠️</h4> 
 	✅ https://utpolodekaryoronno.github.io/recycling/
@@ -33,8 +35,6 @@ Used-> Html, Css, Bootstrap, JavaScript, Jquery and Jquery plugins
 	
 
 <h4>🤷‍♀️ Others Website: 🤷‍♀️</h4> 
-	✅ https://utpolodekaryoronno.github.io/bitastir/
-</br>
 	✅ https://utpolodekaryoronno.github.io/aqua-farm/
 </br>
 	✅ https://utpolodekaryoronno.github.io/waxom/
@@ -79,6 +79,9 @@ Used-> Html, Css, Bootstrap, JavaScript, Jquery and Jquery plugins
 </br>
 	✅ https://utpolodekaryoronno.github.io/millionminer/
 </br>
+	✅ https://utpolodekaryoronno.github.io/ompay/
+</br>
+
 
 
 <h4>👳‍♀️ Dashboard: 👳‍♂️</h4> 
