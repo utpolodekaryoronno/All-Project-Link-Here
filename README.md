@@ -96,5 +96,8 @@ Used-> Html, Css, Bootstrap, JavaScript, Jquery and Jquery plugins
 
 <h4>💻 Hosting Project: 💻</h4> 
 	✅ https://utpolodekaryoronno.github.io/joom-host-template/
-
+</br>
+<h4>📝 Blog Website: 📝</h4> 
+	✅ https://utpolodekaryoronno.github.io/tc-tech/
+ 	✅ https://utpolodekaryoronno.github.io/tc-tech/pricing.html
 
