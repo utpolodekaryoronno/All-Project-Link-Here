@@ -83,6 +83,8 @@ Used-> Html, Css, Bootstrap, JavaScript, Jquery and Jquery plugins
 </br>
 	✅ https://utpolodekaryoronno.github.io/makestaff/landing-page.html
 </br>
+	✅ https://utpolodekaryoronno.github.io/oposidon/ficha.html
+ </br>
 
 <h4>👳‍♀️ Dashboard: 👳‍♂️</h4> 
 	✅ https://utpolodekaryoronno.github.io/Dashboard-admin/
@@ -99,5 +101,6 @@ Used-> Html, Css, Bootstrap, JavaScript, Jquery and Jquery plugins
 </br>
 <h4>📝 Blog Website: 📝</h4> 
 	✅ https://utpolodekaryoronno.github.io/tc-tech/
+ </br>
  	✅ https://utpolodekaryoronno.github.io/tc-tech/pricing.html
 
