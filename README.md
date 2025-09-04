@@ -2,7 +2,7 @@
 Used-> Html, Css, Bootstrap, JavaScript, Jquery and Jquery plugins
 
 <h4>👳‍♀️ Portfolio: 👳‍♀️</h4> 
-	✅ https://utpolodekaryoronno.github.io/Portfolio-utpol/
+	✅ https://utpolodekary.netlify.app/
 </br>
 	✅ https://utpolodekaryoronno.github.io/portfolio/
 </br>
